@@ -18,4 +18,4 @@ design:
 
 <br>
 
-The **Uslab** has been a center of excellence for ultrasound research, teaching, and practice since its founding in 2016.
+The **Uslab** has been a center of excellence for ultrasound research, teaching, and practice since its founding in 2020.
