@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Uslab
-hero_media: welcome.jpg
+hero_media: lab.jpg
 design:
   columns: "1"
   css_style: null
