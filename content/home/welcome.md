@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: texture.jpg
+    image: birmingham.jpg
     color: rgba(0, 0, 0, 0.64)
     image_darken: 0.7
     text_color_light: true
