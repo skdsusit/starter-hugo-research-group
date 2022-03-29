@@ -1,11 +1,8 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+widget: hero
+widget_id: new
+headless: true
+weight: 10
 title: |
   Uslab
 hero_media: lab.jpg
@@ -13,7 +10,11 @@ design:
   columns: "1"
   css_style: null
   css_class: null
-
+  background:
+    image: BingWallpaper.jpg
+    color: rgba(0, 0, 0, 0.64)
+    image_darken: 0.7
+    text_color_light: true
 ---
 
 <br>
