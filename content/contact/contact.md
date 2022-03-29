@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: liyifei12344321@sina.com
+  email: uslab#shanghaitech.edu.cn
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
