@@ -2,7 +2,7 @@
 widget: hero
 widget_id: RECENT-POSTS
 headless: true
-weight: 30
+weight: 5
 title: |
   uslab  
 active: false
@@ -10,6 +10,7 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  
 hero_media: welcome.jpg
 ---
 <br>
