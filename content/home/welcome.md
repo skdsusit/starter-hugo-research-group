@@ -2,17 +2,19 @@
 widget: hero
 widget_id: RECENT-POSTS
 headless: true
-weight: 5
+weight: 10
 title: |
-  uslab  
-active: false
+  Wowchemy  
+  Research Group
+hero_media: welcome.jpg
 design:
   columns: "1"
   css_style: null
   css_class: null
-  
-hero_media: welcome.jpg
+  background:
+    image: welcome.jpg
 ---
+
 <br>
 
-The **Uslab** has been a center of excellence for ultrasound research, teaching, and practice since its founding in 2020.
+The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
