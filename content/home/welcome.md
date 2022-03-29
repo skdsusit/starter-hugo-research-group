@@ -11,8 +11,7 @@ design:
   columns: "1"
   css_style: null
   css_class: null
-  background:
-    image: welcome.jpg
+  background: null
 ---
 
 <br>
