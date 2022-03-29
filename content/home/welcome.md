@@ -4,8 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: |
-  Wowchemy  
-  Research Group
+  uslab  
 active: false
 design:
   columns: "1"
