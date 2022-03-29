@@ -6,13 +6,13 @@ weight: 10
 title: |
   Wowchemy  
   Research Group
-hero_media: welcome.jpg
+active: false
 design:
   columns: "1"
   css_style: null
   css_class: null
   background: ""
-  
+hero_media: welcome.jpg
 ---
 
 <br>
