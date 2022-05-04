@@ -19,6 +19,7 @@ content:
   - Principal Investigators
   - Researchers
   - Grad Students
+  - 硕士生
   - Administration
   - Visitors
   - Alumni

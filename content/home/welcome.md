@@ -4,7 +4,7 @@ widget_id: new
 headless: true
 weight: 10
 title: |
-  Uslab
+  SUSIT
 hero_media: lab.jpg
 design:
   columns: "1"
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Uslab** has been a center of excellence for ultrasound research, teaching, and practice since its founding in 2020.
+The **SUSIT** has been a center of excellence for ultrasound research, teaching, and practice since its founding in 2020.
