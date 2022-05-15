@@ -23,6 +23,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - 本科生
 design:
   show_interests: false
   show_role: true
