@@ -1,33 +1,36 @@
 ---
 # Display name
-title: 黄一鸣
+title: Zhu Hui
 
 # Username (this should match the folder name)
 authors:
-- 黄一鸣
+- Zhu Hui
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Students
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: ShanghaiTech
+- name: Shanghaitech University
   url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Ultrasound computed tomography
+- Ultrasound Monitoring of Treatment
 
 education:
   courses:
-  - course: Electronic Information Engineering
-    institution: Shanghai Technology University
-    year: 2018
+  - course: Master in Electronic Engineering
+    institution: Shanghaitech University
+    year: 2020-now
+  - course: Electronic Engineering
+    institution: University of Shanghai for Science and Technology
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:huangym@shanghaitech.edu.cn'
+  link: 'mailto:zhuhui@shanghaitech.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -44,14 +47,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "huangym@shanghaitech.edu.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Student
+- Master Student
 ---
 ## Biography
-**Yiming Huang** is a undergraduate student of electronic information engineering at the SUSIT in Shanghai Technology University. His research interests include Ultrasound computed tomography.
 
-​	
+**Zhu Hui** received bachelor degree from University of Shanghai for Science and Technology in 2020. Her interests of research focus on ultrasound monitoring of treatment.

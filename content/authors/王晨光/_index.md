@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 本科生
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: Shanghaitech university
-  url: ""
+  url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My current research interest is high spatial resolution passive cavitation imaging.
@@ -50,6 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 本科生
+- Undergraduate Student
 ---
-Wangchenguang is an undergraduate majoring in computer science at Shanghaitech university. He is currently working on high spatial resolution passive cavitation imaging.
+## Biography
+**Wangchenguang** is an undergraduate majoring in computer science at Shanghaitech university. He is currently working on high spatial resolution passive cavitation imaging.

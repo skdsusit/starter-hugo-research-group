@@ -24,6 +24,8 @@ content:
   - Visitors
   - Alumni
   - 本科生
+  - Master Student
+  - Undergraduate Student
 design:
   show_interests: false
   show_role: true

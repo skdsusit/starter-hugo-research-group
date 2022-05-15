@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士生
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
 - name: shanghaitech university
-  url: ""
+  url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ultrasound image reconstrcution and artificial intelligence.
@@ -50,6 +50,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 硕士生
+- Master Student
 ---
-cuishilong is a graduate student of IE at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstrcution and artificial intelligence.
+## Biography
+
+**Cuishilong** is a graduate student of IE at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstrcution and artificial intelligence.

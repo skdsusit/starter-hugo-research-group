@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士生
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
 - name: shanghaitech university
-  url: ""
+  url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are ultrasound communication and physiological signal processing.
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:liyf6@shanghaitech.edu.cn'
+  link: 'mailto:yaobw@shanghaitech.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,6 +50,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 硕士生
+- Master Student
 ---
-My research interests are ultrasound communication and physiological signal processing.
+## Biography
+
+**Yaobowei** is a graduate student of computer science at the SUSIT in shanghaitech university. His research interests are ultrasound communication and physiological signal processing.
