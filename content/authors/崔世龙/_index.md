@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 李一飞
+title: 崔世龙
 
 # Username (this should match the folder name)
 authors:
-- 李一飞
+- 崔世龙
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,8 +27,8 @@ interests:
 education:
   courses:
   - course: Phisics
-    institution: Inner mongolia University
-    year: 2018
+    institution: Taiyuan Institute of Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:liyf6@shanghaitech.edu.cn'
+  link: 'mailto:cuishl@shanghaitech.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,4 +52,4 @@ email: ""
 user_groups:
 - 硕士生
 ---
-liyifei is a graduate student of computer science at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstrcution and artificial intelligence.
+cuishilong is a graduate student of IE at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstrcution and artificial intelligence.

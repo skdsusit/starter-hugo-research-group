@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 李一飞
+title: 姚博维
 
 # Username (this should match the folder name)
 authors:
-- 李一飞
+- 姚博维
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,17 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ultrasound image reconstrcution and artificial intelligence.
+bio: My research interests are ultrasound communication and physiological signal processing.
 
 interests:
-- Artificial Intelligence
-- Ultrasound image reconstruction
+- Ultrasound Communication
+-Physiological Signal Processing 
 
 education:
   courses:
-  - course: Phisics
-    institution: Inner mongolia University
-    year: 2018
+  - course: Communication Engineering
+    institution: Jilin University
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

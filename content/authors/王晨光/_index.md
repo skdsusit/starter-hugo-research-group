@@ -1,33 +1,33 @@
 ---
 # Display name
-title: 李一飞
+title: 王晨光
 
 # Username (this should match the folder name)
 authors:
-- 李一飞
+- 王晨光
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士生
+role: 本科生
 
 # Organizations/Affiliations
 organizations:
-- name: shanghaitech university
+- name: Shanghaitech university
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ultrasound image reconstrcution and artificial intelligence.
+bio: My current research interest is high spatial resolution passive cavitation imaging.
 
 interests:
-- Artificial Intelligence
-- Ultrasound image reconstruction
+- Ultrasound image using in medical field
+- Passive cavitation imaging
 
 education:
   courses:
-  - course: Phisics
-    institution: Inner mongolia University
+  - course: Computer science
+    institution: Shanghaitech university
     year: 2018
 
 # Social/Academic Networking
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:liyf6@shanghaitech.edu.cn'
+  link: 'mailto:wangchg@shanghaitech.edu.cn'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,6 +50,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 硕士生
+- 本科生
 ---
-liyifei is a graduate student of computer science at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstrcution and artificial intelligence.
+Wangchenguang is an undergraduate majoring in computer science at Shanghaitech university. He is currently working on high spatial resolution passive cavitation imaging.
