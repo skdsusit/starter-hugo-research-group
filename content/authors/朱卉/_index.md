@@ -54,6 +54,6 @@ email: ""
 user_groups:
 - Master Student
 ---
-## Biography
+## **Biography**
 
 **Zhu Hui** received bachelor degree from University of Shanghai for Science and Technology in 2020. Her interests of research focus on ultrasound monitoring of treatment.

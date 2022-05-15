@@ -52,6 +52,6 @@ email: ""
 user_groups:
 - Master Student
 ---
-## Biography
+## **Biography**
 
 **Cuishilong** is a graduate student of IE at the SUSIT in shanghaitech university. His research interests include ultrasound image reconstrcution and artificial intelligence.

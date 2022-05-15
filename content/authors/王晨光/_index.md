@@ -52,5 +52,6 @@ email: ""
 user_groups:
 - Undergraduate Student
 ---
-## Biography
+## **Biography**
+
 **Wangchenguang** is an undergraduate majoring in computer science at Shanghaitech university. He is currently working on high spatial resolution passive cavitation imaging.

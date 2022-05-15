@@ -51,7 +51,8 @@ email: "huangym@shanghaitech.edu.cn"
 user_groups:
 - Undergraduate Student
 ---
-## Biography
+## **Biography**
+
 **Yiming Huang** is a undergraduate student of electronic information engineering at the SUSIT in Shanghai Technology University. His research interests include Ultrasound computed tomography.
 
 ​	

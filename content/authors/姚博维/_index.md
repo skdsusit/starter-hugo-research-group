@@ -52,6 +52,6 @@ email: ""
 user_groups:
 - Master Student
 ---
-## Biography
+## **Biography**
 
 **Yaobowei** is a graduate student of computer science at the SUSIT in shanghaitech university. His research interests are ultrasound communication and physiological signal processing.
