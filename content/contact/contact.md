@@ -15,40 +15,40 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: uslab#shanghaitech.edu.cn
-  phone: 888 888 88 88
+  email: caixr@@shanghaitech.edu.cn
+  phone: (021)20684431
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 中科路一号
+    city: 上海
+    region: 浦东新区
+    postcode: '201315'
+    country: China
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: comments
-      icon_pack: fas
-      name: Discuss on Forum
-      link: 'https://discourse.gohugo.io'
+    latitude: '31.18052'
+    longitude: '121.59153'
+  directions: 信息学院4号楼-
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
+  #   - icon: comments
+  #     icon_pack: fas
+  #     name: Discuss on Forum
+  #     link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
 design:
   columns: '1'

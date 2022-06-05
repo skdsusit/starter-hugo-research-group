@@ -16,6 +16,7 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
+  - PI
   - Principal Investigators
   - Researchers
   - Grad Students
@@ -26,6 +27,7 @@ content:
   - 本科生
   - Master Student
   - Undergraduate Student
+
 design:
   show_interests: false
   show_role: true
