@@ -19,3 +19,5 @@ design:
 ---
 
 **Researchgate**: https://www.researchgate.net/profile/Xiran-Cai 
+
+**Google scholar**: https://scholar.google.com/citations?user=O5fKAhoAAAAJ&hl=en 
