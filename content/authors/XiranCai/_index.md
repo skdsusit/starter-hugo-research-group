@@ -33,11 +33,31 @@ interests:
 - Image guided ultrasound therapy
 - Deep learnings for ultrasound imaging
 
+Professional Experiences:
+  courses:
+    - course: Postdoctoral scholar
+      institution: Stanford University
+      year: 2018-2020
+    - course: Assistant Professor
+      institution: Shanghaitech University
+      year: 2020-now
+
+experience:
+  courses:
+  - course: Assistant Professor
+    institution: Shanghaitech University
+    year: 2020-now
+  - course: Postdoctoral scholar
+    institution: Stanford University
+    year: 2018-2020
+
 education:
   courses:
   - course: Physical Acoustics
     institution: Sorbonne Université
     year: 2018
+  
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

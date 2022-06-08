@@ -20,7 +20,7 @@ weight: 10
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -29,6 +29,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<!-- {{< figure src="/research/dl1.png"   numbered="false" >}} -->
+{{< figure src="t1.png"   numbered="false" >}}
 
-{{< figure src="/research/dl2.png"  numbered="false" >}}
+{{< figure src="t2.png"  numbered="false" >}}

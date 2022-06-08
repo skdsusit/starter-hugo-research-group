@@ -20,7 +20,7 @@ weight: 30
 image:
   caption: "广角高分辨率超声成像"
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,5 +31,5 @@ projects: []
 ---
 <!-- ## 广角高分辨率超声成像
 {style="color: #c00000"} -->
-<!-- {{< figure src="/research/super-resolution.png" caption="广角高分辨率超声成像" numbered="false" >}} -->
+{{< figure src="t.png" caption="广角高分辨率超声成像" numbered="false" >}}
 

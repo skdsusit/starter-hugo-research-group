@@ -41,7 +41,7 @@ url_video: ""
 slides: ""
 
 ---
-{{< figure src="/asset/1.png"  numbered="false" >}}
-{{< figure src="/asset/2.png"  numbered="false" >}}
-{{< figure src="/asset/3.png"  numbered="false" >}}
-{{< figure src="/asset/4.png"  numbered="false" >}}
+{{< figure src="1.png"  numbered="false" >}}
+{{< figure src="2.png"  numbered="false" >}}
+{{< figure src="3.png"  numbered="false" >}}
+{{< figure src="4.png"  numbered="false" >}}

@@ -19,7 +19,7 @@ summary: 聚焦超声治疗位点监控成像
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,8 +31,5 @@ projects: []
 ---
 <!-- {{< figure src="/research/skull.png"   numbered="false" >}} -->
 
-{{< figure src="/research/3D.png"  numbered="false" >}}
+{{< figure src="t.png"  numbered="false" >}}
 
-![Alt Text](/research/3d.gif)
-
-{{< figure src="/research/fullview.png"  numbered="false" >}}

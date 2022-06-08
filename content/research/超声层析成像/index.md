@@ -20,7 +20,7 @@ summary: 超声层析成像
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -29,5 +29,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-<!-- {{< figure src="/research/cross-section.png"  numbered="false" >}} -->
+{{< figure src="t.png"  numbered="false" >}}
 
